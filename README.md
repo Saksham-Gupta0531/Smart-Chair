@@ -1,5 +1,4 @@
-# 🪑 Smart Chair Project using Raspberry Pi & Hand Gesture Control
-
+# 🪑 Smart Chair 
 This project introduces an innovative **hand gesture-controlled smart chair** that uses a **Raspberry Pi 4**, **OpenCV**, and **Python** to interpret user gestures for motor-based movement. It's a fusion of **computer vision**, **GPIO control**, and **embedded systems** designed for smart environments and accessibility support.
 
 ---
