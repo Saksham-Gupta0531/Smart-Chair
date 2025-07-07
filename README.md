@@ -55,8 +55,7 @@ All required packages are pre-installed in the custom image.
 
 Download the custom RPi OS image used in this project from the link below:
 
-🔗 [Download Raspberry Pi Image (Google Drive)]([https://drive.google.com/your-image-link](https://drive.google.com/file/d/16rnByKHHG-c_drnkT1r2uNH8VoGSI3UE/view?usp=drive_link))
-
+🔗 [Download Raspberry Pi Image (Google Drive)](https://drive.google.com/your-image-link)
 
 ---
 
